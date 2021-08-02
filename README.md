@@ -1,6 +1,6 @@
 # -IrisDatasetPlot
 tools : install scipy, numpy,matplotlib and sci-kit learn.
-use any IDE you want well. can use jupyter notebook or IDLE
+use any IDE you want. can use jupyter notebook or IDLE
 
 its a scatterplot of the iris dataset
 load iris dataset in pattern recognition using scikit-learn   *** from sklearn.datasets import load_iris iris = load_iris() **
